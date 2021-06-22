@@ -36,7 +36,7 @@ def check_flood(bot: Bot, update: Update) -> str:
     soft_flood = sql.get_flood_strength(chat.id)
     if soft_flood:  # kick
         chat.unban_member(user.id)
-        reply = "ഇത് ഏതാ പുതിയ വാണം കിടന്ന് ഷോ ! {} പൊയ്ക്കോ!".format(mention_html(user.id, user.first_name))
+        reply = "ഇത് ഏതാ പുതിയ സാധനം കിടന്ന് ഷോ ! {} പൊയ്ക്കോ!".format(mention_html(user.id, user.first_name))
 
     else:  # ban
         chat.kick_member(user.id)
