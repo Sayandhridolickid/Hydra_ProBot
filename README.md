@@ -17,7 +17,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/3045588b3ecbfd54998b8.jpg)](https://heroku.com/deploy?template=https://github.com/Zyruz-ramu/hydraprobot.git)
+[![Deploy](https://telegra.ph/file/da89ec60fd41fbf1f5ab6.jpg)](https://heroku.com/deploy?template=https://github.com/Sayandhridolickid/hydraprobot.git)
 
 ### Configuration
 
